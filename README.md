@@ -1,5 +1,10 @@
 ### Hi there 👋 I am Patience Bassey
 I am a Frontend Developer
+### My Expertise
+Tailwind Css
+Bootstrap
+VueJs
+ReactJs
 
 <!--
 **philpat/philpat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
